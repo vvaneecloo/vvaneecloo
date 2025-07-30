@@ -25,7 +25,7 @@ You’ll usually find me on [LinkedIn](www.linkedin.com/in/victorvaneecloo) or o
 
 ## 🛠 Tools of choice
 
-`dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust`
+`dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust` · `Streamlit` · `Django`
 
 ## 🎓 Education
 
