@@ -19,7 +19,7 @@ Over the past 5 years, I’ve worked with:
 
 ## 🤝 Let’s Connect
 
-I’d love to talk if that sounds like you.
+Interested in my services ? I’d love to talk.
 
 You’ll usually find me on [LinkedIn](www.linkedin.com/in/victorvaneecloo) or on [my blog](https://vvaneecloo.ghost.io/), where I share what I’m learning and working on.
 
