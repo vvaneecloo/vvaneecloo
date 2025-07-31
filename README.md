@@ -19,14 +19,16 @@ Over the past 5 years, I’ve worked with:
 - [Auchan](https://www.auchan-retail.com/en/who-we-are/)
 - [Saint-Maclou](https://ensemble.saint-maclou.com/notre-adn/)
 
-<br/>
-
-## 🎯 Key Results I’ve Delivered for Clients
+#### 🎯 Key Results I’ve Delivered for Clients
 
 - Cut pipeline costs by **40%** by migrating from **dbt Cloud** to **dbt Core + Airflow** and **optimizing runs** via **microbatching** and **selective testing**,
 - Saved **> 4,500+ engineering hours/year** with a **custom Airflow library** (alerting, Tableau orchestration, dbt test surfacing),
 - Restructured legacy models using **star schema** + **Snowflake**, and introduced **scalable testing + documentation standards**,
 - Trained **35+ data team members** (engineers, analysts, scientists) and led **dbt adoption through hands-on coaching**.
+
+#### 🛠 Tools of choice
+
+`dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust` · `Streamlit` · `Django`
 
 <br/>
 
@@ -38,20 +40,12 @@ You’ll usually find me on [LinkedIn](www.linkedin.com/in/victorvaneecloo) or o
 
 <br/>
 
-## 🛠 Tools of choice
-
-`dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust` · `Streamlit` · `Django`
-
-<br/>
-
-## 🎓 Education
+## 🎓 Education & certifications
 
 - MSc. in Civil Engineering from [estp](https://www.estp.fr/)
 - MSc. in Data Science & Analytics from [emlyon](https://em-lyon.com/en)
 
-<br/>
-
-## 🏗️ Certifications
+#### 🏗️ Certifications
 - [dbt certified developer](https://credentials.getdbt.com/e4a32ae6-8810-472c-9399-65777499b631#acc.YOFZ2mzG)
 - [Associate Google Cloud Engineer](https://www.credly.com/badges/400fffe4-d9d4-43d2-9185-76b87832da21/public_url)
 - [Terraform Associate](https://www.credly.com/badges/a009438e-c43c-418a-b156-94eb1bb63694/public_url)
