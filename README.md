@@ -2,8 +2,6 @@
 
 I’m Victor, a Freelance Data Consultant with a deep love for **clean code & pipelines** and **messy business problems**.
 
-<br/>
-
 ## 🧠 What I Do
 
 I specialize in building **modern, reliable, and scalable data platforms** that drive real business outcomes — whether through dbt modeling, Airflow orchestration, or full-stack systems in GCP, Snowflake, or whatever tools you’re using.
@@ -30,15 +28,11 @@ Over the past 5 years, I’ve worked with:
 
 `dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust` · `Streamlit` · `Django`
 
-<br/>
-
 ## 🤝 Let’s Connect
 
 Interested in my services ? I’d love to talk.
 
 You’ll usually find me on [LinkedIn](www.linkedin.com/in/victorvaneecloo) or on [my blog](https://vvaneecloo.ghost.io/), where I share what I’m learning and working on.
-
-<br/>
 
 ## 🎓 Education & certifications
 
