@@ -2,6 +2,8 @@
 
 I’m Victor, a Freelance Data Consultant with a deep love for **clean code & pipelines** and **messy business problems**.
 
+<br/>
+
 ## 🧠 What I Do
 
 I specialize in building **modern, reliable, and scalable data platforms** that drive real business outcomes — whether through dbt modeling, Airflow orchestration, or full-stack systems in GCP, Snowflake, or whatever tools you’re using.
@@ -17,20 +19,37 @@ Over the past 5 years, I’ve worked with:
 - [Auchan](https://www.auchan-retail.com/en/who-we-are/)
 - [Saint-Maclou](https://ensemble.saint-maclou.com/notre-adn/)
 
+<br/>
+
+## 🎯 Key Results I’ve Delivered for Clients
+
+- Cut pipeline costs by **40%** by migrating from **dbt Cloud** to **dbt Core + Airflow** and **optimizing runs** via **microbatching** and **selective testing**,
+- Saved **> 4,500+ engineering hours/year** with a **custom Airflow library** (alerting, Tableau orchestration, dbt test surfacing),
+- Restructured legacy models using **star schema** + **Snowflake**, and introduced **scalable testing + documentation standards**,
+- Trained **35+ data team members** (engineers, analysts, scientists) and led **dbt adoption through hands-on coaching**.
+
+<br/>
+
 ## 🤝 Let’s Connect
 
 Interested in my services ? I’d love to talk.
 
 You’ll usually find me on [LinkedIn](www.linkedin.com/in/victorvaneecloo) or on [my blog](https://vvaneecloo.ghost.io/), where I share what I’m learning and working on.
 
+<br/>
+
 ## 🛠 Tools of choice
 
 `dbt` · `Airflow` · `Snowflake` · `BigQuery` · `GCP` · `Python` · `Rust` · `Streamlit` · `Django`
+
+<br/>
 
 ## 🎓 Education
 
 - MSc. in Civil Engineering from [estp](https://www.estp.fr/)
 - MSc. in Data Science & Analytics from [emlyon](https://em-lyon.com/en)
+
+<br/>
 
 ## 🏗️ Certifications
 - [dbt certified developer](https://credentials.getdbt.com/e4a32ae6-8810-472c-9399-65777499b631#acc.YOFZ2mzG)
