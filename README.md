@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I’m Victor, a Freelance Data Consultant with a deep love for clean pipelines and messy business problems.
+I’m Victor, a Freelance Data Consultant with a deep love for **clean code & pipelines** and **messy business problems**.
 
 ## 🧠 What I Do
 
